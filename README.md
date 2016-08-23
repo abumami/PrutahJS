@@ -6,6 +6,11 @@ Download or clone the project and run:
 npm install
 ```
 
+Then to run the app:
+```bash
+npm start
+```
+
 Images from:
 - loading.gif generated from http://ajaxload.info
 - flags from: Country Picker by Nick Lockwood  https://github.com/nicklockwood/CountryPicker
