@@ -1,5 +1,5 @@
 # PrutahJS
-## Find the current value of a prutah for different world currencies.
+### Find the current value of a prutah for different world currencies.
 
 Download or clone the project and run:
 ```bash
