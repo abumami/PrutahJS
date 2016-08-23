@@ -5,3 +5,4 @@ loading.gif generated from http://ajaxload.info
 
 - flags from: Country Picker by Nick Lockwood  https://github.com/nicklockwood/CountryPicker
 - EU flag was found somewhere on the Internet, but can't remember where.
+- app icon (and favicon) is from my iOS app, Prutah, available on the Apple App Store
