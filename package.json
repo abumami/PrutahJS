@@ -11,7 +11,6 @@
   },
   "dependencies": {
     "axios": "^0.13.1",
-    "mobx": "^2.4.3",
     "promise": "^7.1.1",
     "react": "^15.2.1",
     "react-dom": "^15.2.1"
